@@ -7,4 +7,7 @@ include_directories(A1)
 
 add_executable(first_project
         A1/contacts.cpp
-        A1/contacts.h)
+        A1/contacts.h
+        A1/m1.cpp
+        read_input.cpp
+        read_input.h)
